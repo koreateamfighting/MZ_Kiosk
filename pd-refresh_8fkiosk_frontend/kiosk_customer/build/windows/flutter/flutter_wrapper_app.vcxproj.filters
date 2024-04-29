@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\MEDIAZEN\Desktop\local\09.MZ_Kiosk_Project\pd-refresh_8fkiosk_frontend\kiosk_customer\windows\flutter\ephemeral\cpp_client_wrapper\core_implementations.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MEDIAZEN\Desktop\local\09.MZ_Kiosk_Project\pd-refresh_8fkiosk_frontend\kiosk_customer\windows\flutter\ephemeral\cpp_client_wrapper\standard_codec.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MEDIAZEN\Desktop\local\09.MZ_Kiosk_Project\pd-refresh_8fkiosk_frontend\kiosk_customer\windows\flutter\ephemeral\cpp_client_wrapper\flutter_engine.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MEDIAZEN\Desktop\local\09.MZ_Kiosk_Project\pd-refresh_8fkiosk_frontend\kiosk_customer\windows\flutter\ephemeral\cpp_client_wrapper\flutter_view_controller.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\MEDIAZEN\Desktop\local\09.MZ_Kiosk_Project\pd-refresh_8fkiosk_frontend\kiosk_customer\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{1D889222-C5C5-30FD-A0A1-1CC6DF7E5C25}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{CBC710F8-F3C7-37B2-B129-EA7B39794689}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

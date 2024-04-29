@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\MEDIAZEN\Desktop\local\09.MZ_Kiosk_Project\pd-refresh_8fkiosk_frontend\kiosk_customer\windows\runner\flutter_window.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MEDIAZEN\Desktop\local\09.MZ_Kiosk_Project\pd-refresh_8fkiosk_frontend\kiosk_customer\windows\runner\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MEDIAZEN\Desktop\local\09.MZ_Kiosk_Project\pd-refresh_8fkiosk_frontend\kiosk_customer\windows\runner\utils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MEDIAZEN\Desktop\local\09.MZ_Kiosk_Project\pd-refresh_8fkiosk_frontend\kiosk_customer\windows\runner\win32_window.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MEDIAZEN\Desktop\local\09.MZ_Kiosk_Project\pd-refresh_8fkiosk_frontend\kiosk_customer\windows\flutter\generated_plugin_registrant.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\MEDIAZEN\Desktop\local\09.MZ_Kiosk_Project\pd-refresh_8fkiosk_frontend\kiosk_customer\windows\runner\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\Users\MEDIAZEN\Desktop\local\09.MZ_Kiosk_Project\pd-refresh_8fkiosk_frontend\kiosk_customer\windows\runner\Runner.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{CBC710F8-F3C7-37B2-B129-EA7B39794689}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

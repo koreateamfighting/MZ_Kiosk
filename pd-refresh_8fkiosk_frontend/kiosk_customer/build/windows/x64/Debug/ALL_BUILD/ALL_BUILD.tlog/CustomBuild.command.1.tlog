@@ -1,0 +1,10 @@
+^C:\USERS\MEDIAZEN\DESKTOP\LOCAL\09.MZ_KIOSK_PROJECT\PD-REFRESH_8FKIOSK_FRONTEND\KIOSK_CUSTOMER\WINDOWS\CMAKELISTS.TXT
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/MEDIAZEN/Desktop/local/09.MZ_Kiosk_Project/pd-refresh_8fkiosk_frontend/kiosk_customer/windows -BC:/Users/MEDIAZEN/Desktop/local/09.MZ_Kiosk_Project/pd-refresh_8fkiosk_frontend/kiosk_customer/build/windows --check-stamp-file C:/Users/MEDIAZEN/Desktop/local/09.MZ_Kiosk_Project/pd-refresh_8fkiosk_frontend/kiosk_customer/build/windows/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

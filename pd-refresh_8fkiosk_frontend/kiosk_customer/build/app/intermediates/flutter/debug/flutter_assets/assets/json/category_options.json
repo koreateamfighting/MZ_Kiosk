@@ -1,0 +1,359 @@
+{
+    "coffee": [
+        {
+            "title": "따뜻한(Hot) / 차가운(Ice) 음료",
+            "options": [
+                {
+                    "label": "HOT",
+                    "checked": false
+                },
+                {
+                    "label": "ICE",
+                    "checked": true
+                }
+            ]
+        },
+        {
+            "title": "샷 추가",
+            "options": [
+                {
+                    "label": "기본",
+                    "checked": true
+                },
+                {
+                    "label": "1샷 추가",
+                    "checked": false
+                },
+                {
+                    "label": "2샷 추가",
+                    "checked": false
+                }
+            ]
+        },
+        {
+            "title": "물 추가",
+            "options": [
+                {
+                    "label": "표준",
+                    "checked": true
+                },
+                {
+                    "label": "물 적게",
+                    "checked": false
+                },
+                {
+                    "label": "물 많이",
+                    "checked": false
+                }
+            ]
+        },
+        {
+            "title": "얼음 추가",
+            "options": [
+                {
+                    "label": "얼음 적게",
+                    "checked": false
+                },
+                {
+                    "label": "얼음 보통",
+                    "checked": true
+                },
+                {
+                    "label": "얼음 X",
+                    "checked": false
+                }
+            ]
+        },
+        {
+            "title": "텀블러 대여 여부",
+            "options": [
+                {
+                    "label": "개인 텀블러",
+                    "checked": true
+                },
+                {
+                    "label": "대여 텀블러",
+                    "checked": false
+                }
+            ]
+        }
+    ],
+    "milk": [
+        {
+            "title": "따뜻한(Hot) / 차가운(Ice) 음료",
+            "options": [
+                {
+                    "label": "HOT",
+                    "checked": false
+                },
+                {
+                    "label": "ICE",
+                    "checked": true
+                }
+            ]
+        },
+        {
+            "title": "우유 추가",
+            "options": [
+                {
+                    "label": "표준",
+                    "checked": true
+                },
+                {
+                    "label": "우유 적게",
+                    "checked": false
+                },
+                {
+                    "label": "우유 많이",
+                    "checked": false
+                }
+            ]
+        },
+        {
+            "title": "얼음 추가",
+            "options": [
+                {
+                    "label": "얼음 적게",
+                    "checked": false
+                },
+                {
+                    "label": "얼음 보통",
+                    "checked": true
+                },
+                {
+                    "label": "얼음 X",
+                    "checked": false
+                }
+            ]
+        },
+        {
+            "title": "텀블러 대여 여부",
+            "options": [
+                {
+                    "label": "개인 텀블러",
+                    "checked": true
+                },
+                {
+                    "label": "대여 텀블러",
+                    "checked": false
+                }
+            ]
+        }
+    ],
+    "ade": [
+        {
+            "title": "얼음 추가",
+            "options": [
+                {
+                    "label": "얼음 적게",
+                    "checked": false
+                },
+                {
+                    "label": "얼음 보통",
+                    "checked": true
+                },
+                {
+                    "label": "얼음 X",
+                    "checked": false
+                }
+            ]
+        },
+        {
+            "title": "텀블러 대여 여부",
+            "options": [
+                {
+                    "label": "개인 텀블러",
+                    "checked": true
+                },
+                {
+                    "label": "대여 텀블러",
+                    "checked": false
+                }
+            ]
+        }
+    ],
+    "sparkling_and_juice": [
+        {
+            "title": "텀블러 대여 여부",
+            "options": [
+                {
+                    "label": "개인 텀블러",
+                    "checked": true
+                },
+                {
+                    "label": "대여 텀블러",
+                    "checked": false
+                },
+                {
+                    "label": "텀블러 X",
+                    "checked": false
+                }
+            ]
+        },
+        {
+            "title": "얼음 추가",
+            "options": [
+                {
+                    "label": "얼음 적게",
+                    "checked": false
+                },
+                {
+                    "label": "얼음 보통",
+                    "checked": true
+                },
+                {
+                    "label": "얼음 X",
+                    "checked": false
+                }
+            ]
+        }
+    ],
+    "tea": [
+        {
+            "title": "따뜻한(Hot) / 차가운(Ice) 음료",
+            "options": [
+                {
+                    "label": "HOT",
+                    "checked": true
+                },
+                {
+                    "label": "ICE",
+                    "checked": false
+                }
+            ]
+        },
+        {
+            "title": "물 추가",
+            "options": [
+                {
+                    "label": "표준",
+                    "checked": true
+                },
+                {
+                    "label": "물 적게",
+                    "checked": false
+                },
+                {
+                    "label": "물 많이",
+                    "checked": false
+                }
+            ]
+        },
+        {
+            "title": "얼음 추가",
+            "options": [
+                {
+                    "label": "얼음 적게",
+                    "checked": false
+                },
+                {
+                    "label": "얼음 보통",
+                    "checked": false
+                },
+                {
+                    "label": "얼음 X",
+                    "checked": true
+                }
+            ]
+        },
+        {
+            "title": "텀블러 대여 여부",
+            "options": [
+                {
+                    "label": "개인 텀블러",
+                    "checked": true
+                },
+                {
+                    "label": "대여 텀블러",
+                    "checked": false
+                }
+            ]
+        }
+    ],
+    "ramen": [
+        {
+            "title": "계란 선택",
+            "options": [
+                {
+                    "label": "계란 O",
+                    "checked": true
+                },
+                {
+                    "label": "계란 X",
+                    "checked": false
+                }
+            ]
+        },
+        {
+            "title": "치즈 선택",
+            "options": [
+                {
+                    "label": "치즈 O",
+                    "checked": true
+                },
+                {
+                    "label": "치즈 X",
+                    "checked": false
+                }
+            ]
+        }
+    ],
+    "rice": [
+        {
+            "title": "장국 선택",
+            "options": [
+                {
+                    "label": "장국 O",
+                    "checked": true
+                },
+                {
+                    "label": "장국 X",
+                    "checked": false
+                }
+            ]
+        }
+    ],
+    "salad": [
+        {
+            "title": "드레싱 선택",
+            "options": [
+                {
+                    "label": "발사믹",
+                    "checked": true
+                },
+                {
+                    "label": "오리엔탈",
+                    "checked": false
+                },
+                {
+                    "label": "참깨",
+                    "checked": false
+                }
+            ]
+        }
+    ],
+    "bread": [
+        {
+            "title": "기본",
+            "options": [
+            {
+            "label": "기본",
+            "checked": true
+           }
+        ]
+    }
+        
+    ],
+    "dessert": [
+        {
+            "title": "기본",
+            "options": [
+            {
+            "label": "기본",
+            "checked": true
+           }
+        ]
+    }
+        
+    ]
+}
